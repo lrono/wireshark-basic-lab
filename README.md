@@ -4,12 +4,12 @@ A hands-on network traffic analysis project using Wireshark to capture and inspe
 
 # Wireshark Basic Network Traffic Analysis 🧪
 
-## 📌 Overview
+ Overview
 This project demonstrates a simple network traffic capture using Wireshark. The goal is to understand how data moves across a network and how to identify different types of packets such as DNS requests, HTTP/HTTPS traffic, and IP communications.
 
 ---
 
-## 🎯 Objectives
+ Objectives
 - Install and configure Wireshark
 - Capture live network traffic
 - Generate web traffic using a browser
@@ -17,8 +17,7 @@ This project demonstrates a simple network traffic capture using Wireshark. The 
 - Understand basic network communication
 
 ---
-
-## 🧰 Tools Used
+ Tools Used
 - Wireshark
 - Internet browser (Chrome/Firefox)
 - Windows/Linux/Mac OS
